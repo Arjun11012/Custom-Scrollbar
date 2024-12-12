@@ -22,9 +22,14 @@
   ::-webkit-scrollbar {
     background-color: transparent;
     width: 10px;
+    /* border: 2px dashed white;p */
   }
   
+  /* grabient.com */
   ::-webkit-scrollbar-thumb {
     background: linear-gradient(#21d4fd, #b721ff);
     border-radius: 100px;
   }
+
+  /* + button on terminal for git bash instead of powershell */
+  /* panel positon to right  */
